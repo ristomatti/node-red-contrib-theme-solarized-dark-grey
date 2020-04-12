@@ -430,6 +430,8 @@
 
 #red-ui-workspace { border: 1px solid #3a3a3a; }
 #red-ui-workspace-chart { background: #e3e3e3; }
+#red-ui-workspace-chart .nr-ui-view-lasso { stroke: #93a1a1; fill: rgba(150, 150, 150, 0.1); }
+
 #red-ui-workspace-footer { border-top: 1px solid #3a3a3a !important; background: #2e2e2e; }
 
 #red-ui-workspace-toolbar .button { color: #888 !important; background: #141414; border: 1px solid #2e2e2e !important; }
