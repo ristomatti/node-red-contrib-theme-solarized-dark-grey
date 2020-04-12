@@ -428,6 +428,11 @@
 #red-ui-sidebar-separator { background: #2e2e2e !important; }
 #red-ui-sidebar.closing { background: #eee; border-color: #900; }
 
+#red-ui-sidebar-content { background: #141414 !important; }
+#red-ui-sidebar-content .red-ui-sidebar-header { background: #2e2e2e; border-bottom: none; }
+#red-ui-sidebar-content a.red-ui-sidebar-header-button { background: #2e2e2e; border: 1px solid #3a3a3a; }
+#red-ui-sidebar-content a.red-ui-sidebar-header-button:not(.disabled):not(:disabled):hover { background: #ddd; }
+
 #red-ui-workspace { border: 1px solid #3a3a3a; }
 #red-ui-workspace-chart { background: #e3e3e3; }
 #red-ui-workspace-chart .red-ui-flow-node-label { fill: #fdf6e3; }
